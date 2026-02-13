@@ -59,10 +59,10 @@ Removed games are stored in `gameswitcher_excluded.json` as a JSON array of game
 
 Game Switcher can be activated in four ways:
 
-1. **Hotkey during gameplay** (`Function + Select`) - triggers via the HTTP API. If a game is running, the switcher appears after the game exits. If no game is running, it appears immediately.
+1. **Hotkey during gameplay** (`Function`+`Select`) - triggers via the HTTP API. If a game is running, the switcher appears after the game exits. If no game is running, it appears immediately.
 2. **Boot to Game Switcher** - when enabled, shows the cached-mode switcher on startup (if no Quick Resume game is pending).
 3. **Game Switcher loop** - after launching a game from cached mode, the switcher reappears when the game exits (controlled by a flag file), allowing you to chain multiple games without fully loading EmulationStation.
-4. **Quick Access Menu** - when in the _Systems_ view in EmulationStation, press `select` to bring up the _Quick Access_ mene and choose _Game Switcher_.
+4. **Quick Access Menu** - when in the _Systems_ view in EmulationStation, press `select` to bring up the _Quick Access_ menu and choose _Game Switcher_.
 
 ## Controls
 
