@@ -124,3 +124,7 @@ All Game Switcher data files are stored in the EmulationStation configuration di
 | `gameswitcher_cache.json` | Cached game data for fast loading |
 | `gameswitcher_excluded.json` | List of removed game paths |
 | `gameswitcher_pending_stats.json` | Play stats from cached-mode sessions (temporary) |
+
+## Source Code
+
+Source code for game-switcher can be found here: `https://github.com/t0b10-r3tr0/knulli-emulationstation/tree/game-switcher
